@@ -13,7 +13,7 @@ body {
 }
 
 header {
-    background-color: #003EFF;
+    background-color: #FF7C00;
     color: #00000;
     padding: 10px 0;
     position: fixed
@@ -48,7 +48,7 @@ section {
 }
 
 footer {
-    background-color: #003EFF;
+    background-color: #FF7C00;
     color: #000;
     text-align: center;
     padding: 10px 0;
