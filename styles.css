@@ -8,8 +8,8 @@ body {
 }
 
 header {
-    background-color: #00F7FF;
-    color: #00F7FF;
+    background-color: ##003EFF;
+    color: #00000;
     padding: 10px 0;
 }
 
@@ -42,8 +42,8 @@ section {
 }
 
 footer {
-    background-color: #333;
-    color: #fff;
+    background-color: ##003EFF;
+    color: #000;
     text-align: center;
     padding: 10px 0;
     position: fixed;
